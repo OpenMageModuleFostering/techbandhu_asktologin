@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/techBandhu_asktologin",
+    "type": "magento-module",
+    "license": "http://opensource.org/licenses/osl-3.0.php",
+    "homepage": "",
+    "description": "forced popup login boxes",
+    "authors": [
+    {
+        "name": "Tech Bandhu",
+        "email": "techbandhus@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
